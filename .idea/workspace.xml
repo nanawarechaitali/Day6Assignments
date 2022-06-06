@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c07298e-dc17-4626-b037-7b834af6347b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/function/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/function/StopWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/CouponNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/CouponNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/PerfectNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/PerfectNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/PrimeNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/ReverseNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/SimulateStopwacthProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/Vendingmachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/Vendingmachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +40,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.brideglabz.function.Vendingmachine">
-    <configuration name="com.brideglabz.function.CouponNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.CouponNum" />
+  <component name="RunManager" selected="Application.StopWatch">
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.StopWatch" />
       <module name="Day6Assignments" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.brideglabz.function.PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.PrimeNum" />
+    <configuration name="com.brideglabz.function.CouponNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.CouponNum" />
       <module name="Day6Assignments" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.com.brideglabz.function.SimulateStopwacthProgram" />
         <item itemvalue="Application.com.brideglabz.function.Vendingmachine" />
         <item itemvalue="Application.com.brideglabz.function.CouponNum" />
-        <item itemvalue="Application.com.brideglabz.function.SimulateStopwacthProgram" />
         <item itemvalue="Application.com.brideglabz.function.ReverseNum" />
-        <item itemvalue="Application.com.brideglabz.function.PrimeNum" />
       </list>
     </recent_temporary>
   </component>
