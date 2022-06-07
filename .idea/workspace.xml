@@ -1,27 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c07298e-dc17-4626-b037-7b834af6347b" name="Changes" comment="" />
+    <list default="true" id="0c07298e-dc17-4626-b037-7b834af6347b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/function/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/CouponNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/CouponNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/PerfectNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/PerfectNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/PrimeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/ReverseNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/SimulateStopwacthProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/function/Vendingmachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/function/Vendingmachine.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29rfRm300eXjg9X359TFpoLhFtp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.com.brideglabz.function.Vendingmachine">
+    <configuration name="com.brideglabz.function.CouponNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.CouponNum" />
+      <module name="Day6Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.brideglabz.function.PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.PrimeNum" />
+      <module name="Day6Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.brideglabz.function.ReverseNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.ReverseNum" />
+      <module name="Day6Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.brideglabz.function.SimulateStopwacthProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.SimulateStopwacthProgram" />
+      <module name="Day6Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.brideglabz.function.Vendingmachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.function.Vendingmachine" />
+      <module name="Day6Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.brideglabz.function.Vendingmachine" />
+        <item itemvalue="Application.com.brideglabz.function.CouponNum" />
+        <item itemvalue="Application.com.brideglabz.function.SimulateStopwacthProgram" />
+        <item itemvalue="Application.com.brideglabz.function.ReverseNum" />
+        <item itemvalue="Application.com.brideglabz.function.PrimeNum" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +132,16 @@
       <updated>1653876122042</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
